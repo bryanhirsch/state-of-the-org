@@ -18,9 +18,7 @@
   * [Developers](onboarding-developers.md)
   * [PMs](onboarding-pms.md)
   * [Writers](onboarding-writers.md)
-* [Job profiles](job-profiles.md)
-  * [Site reliability engineers](job-profiles-site-reliability-engineers.md)
-  * [Designers](job-profiles-designers.md)
+* [Job profiles (coming soon...)]
 * [Policies](policies.md)
   * [Harassment](harassment.md)
 
